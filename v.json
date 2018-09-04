@@ -36,5 +36,13 @@
         "s": 1,
         "r": 0,
         "u": "https://raw.githubusercontent.com/mravki/tag/master/s.png"
+    },
+    {
+        "c": 1,
+        "g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.solitaire.free",
+        "n": "com.blogspot.mravki.targetnumber",
+        "s": 1,
+        "r": 0,
+        "u": "https://raw.githubusercontent.com/mravki/tag/master/s.png"
     }
 ]
