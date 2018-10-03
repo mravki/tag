@@ -3,43 +3,47 @@
 		"c": 40,
 		"s": 0,
 		"r": 0,
-		"u": "https://raw.githubusercontent.com/mravki/tag/master/s.png",
-		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.solitaire.free",
+		"u": "https://raw.githubusercontent.com/mravki/tag/master/tn.png",
+		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.targetnumber",
 		"n": "com.blogspot.mravki.familytree"
 	},
 	{
 		"c": 18,
+		"s": 0,
+		"r": 0,
+		"u": "https://raw.githubusercontent.com/mravki/tag/master/tn.png",
+		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.targetnumber",
 		"n": "com.blogspot.mravki.scramble.bg.free"
 	},
 	{
 		"c": 1,
 		"s": 0,
-		"u": "https://raw.githubusercontent.com/mravki/tag/master/s.png",
-		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.solitaire.free",
+		"u": "https://raw.githubusercontent.com/mravki/tag/master/tn.png",
+		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.targetnumber",
 		"n": "com.blogspot.mravki.maze.free"
 	},
 	{
 		"c": 3,
-		"s": 1,
+		"s": 0,
 		"r": 0,
-		"u": "https://raw.githubusercontent.com/mravki/tag/master/s.png",
-		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.solitaire.free",
+		"u": "https://raw.githubusercontent.com/mravki/tag/master/tn.png",
+		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.targetnumber",
 		"n": "com.blogspot.mravki.vic"
 	},
 	{
 		"c": 1,
 		"s": 0,
 		"r": 0,
-		"u": "https://raw.githubusercontent.com/mravki/tag/master/s.png",
-		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.solitaire.free",
+		"u": "https://raw.githubusercontent.com/mravki/tag/master/tn.png",
+		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.targetnumber",
 		"n": "com.blogspot.mravki.whoowesme"
 	},
 	{
 		"c": 1,
 		"s": 0,
 		"r": 0,
-		"u": "https://raw.githubusercontent.com/mravki/tag/master/s.png",
-		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.solitaire.free",
+		"u": "https://raw.githubusercontent.com/mravki/tag/master/tn.png",
+		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.targetnumber",
 		"n": "com.blogspot.mravki.dlrcube"
 	},
 	{
@@ -54,8 +58,8 @@
 		"c": 1,
 		"s": 0,
 		"r": 0,
-		"u": "https://raw.githubusercontent.com/mravki/tag/master/s.png",
-		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.solitaire.free",
+		"u": "https://raw.githubusercontent.com/mravki/tag/master/tn.png",
+		"g": "https://play.google.com/store/apps/details?id=com.blogspot.mravki.targetnumber",
 		"n": "com.blogspot.mravki.order.drag"
 	},
 	{
