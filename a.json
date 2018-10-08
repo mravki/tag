@@ -1,0 +1,26 @@
+{
+		"v":1,
+		"bi": "https://raw.githubusercontent.com/mravki/tag/master/",
+		"bu": "https://play.google.com/store/apps/details?id=",
+		"ma":[
+			"tn.png","com.blogspot.mravki.targetnumber",
+			"s.png","com.blogspot.mravki.solitaire.free"
+		],
+		"el":[
+			"Support Me","https://mravki.blogspot.com/2018/08/support-me.html"
+		],
+		"pa":[
+			{
+				"c": 1,
+				"s": 0,
+				"r": 0,
+				"n": "com.blogspot.mravki.whoowesme",
+				"el":[ 
+					"test sampl 2","https://mravki.blogspot.com/2018/08/support-me.html"
+				], "this is not done yet - todo":1
+			}
+		]
+}
+
+
+
