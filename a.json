@@ -4,10 +4,11 @@
 		"bu": "https://play.google.com/store/apps/details?id=",
 		"ma":[
 			"tn.png","com.blogspot.mravki.targetnumber",
+			"h.png","com.blogspot.mravki.whoowesme",
 			"s.png","com.blogspot.mravki.solitaire.free"
 		],
 		"el":[
-			"Support Me 1","https://mravki.blogspot.com/2018/08/support-me.html"
+			//"Support Me 1","https://mravki.blogspot.com/2018/08/support-me.html"
 		],
 		"pa":[
 			{
@@ -16,10 +17,9 @@
 				"r": 0,
 				"n": "com.blogspot.mravki.order.drag",
 				"ma":[
-					"h.png","com.blogspot.mravki.whoowesme"
 				],
 				"el":[ 
-					"test sampl 2","https://mravki.blogspot.com/2018/08/support-me.html"
+					//"test sampl 2","https://mravki.blogspot.com/2018/08/support-me.html"
 				]
 			}
 		]
