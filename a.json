@@ -7,7 +7,7 @@
 			"s.png","com.blogspot.mravki.solitaire.free"
 		],
 		"el":[
-			"Support Me","https://mravki.blogspot.com/2018/08/support-me.html"
+			"Support Me 1","https://mravki.blogspot.com/2018/08/support-me.html"
 		],
 		"pa":[
 			{
@@ -15,12 +15,12 @@
 				"s": 0,
 				"r": 0,
 				"n": "com.blogspot.mravki.whoowesme",
+				"ma":[
+					"hom.png","com.blogspot.mravki.whoowesme"
+				],
 				"el":[ 
 					"test sampl 2","https://mravki.blogspot.com/2018/08/support-me.html"
-				], "this is not done yet - todo":1
+				]
 			}
 		]
 }
-
-
-
