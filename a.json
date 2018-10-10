@@ -8,7 +8,6 @@
 			"s.png","com.blogspot.mravki.solitaire.free"
 		],
 		"el":[
-			//"Support Me 1","https://mravki.blogspot.com/2018/08/support-me.html"
 		],
 		"pa":[
 			{
@@ -18,8 +17,7 @@
 				"n": "com.blogspot.mravki.order.drag",
 				"ma":[
 				],
-				"el":[ 
-					//"test sampl 2","https://mravki.blogspot.com/2018/08/support-me.html"
+				"el":[
 				]
 			}
 		]
