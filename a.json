@@ -21,23 +21,15 @@
 		"pa":[
 			{
 				"c": 1,
-				"s": 0,
 				"r": 0,
 				"n": "com.blogspot.mravki.order.drag",
-				"ma":[
-				],
-				"el":[
-				]
+				"ma":[],
+				"el":[]
 			},
 			{
 				"c": 2,
-				"s": 0,
-				"r": 0,
 				"n": "app.ninegag.two",
-				"ma":[
-				],
-				"el":[
-				]
+				"u": "https://www.apkmirror.com/apk/polarsteps/polarsteps-travel-tracker/polarsteps-travel-tracker-6-9-7-release/polarsteps-travel-tracker-6-9-7-android-apk-download/"
 			}
 		]
 }
