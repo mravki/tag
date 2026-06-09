@@ -1,11 +1,11 @@
 {
-		"v":3,
+		"v":4,
 		"bi": "https://raw.githubusercontent.com/mravki/tag/master/",
 		"bu": "https://play.google.com/store/apps/details?id=",
 		"ma":[
 			"tn.png","com.blogspot.mravki.targetnumber",
 			"h.png","com.blogspot.mravki.whoowesme",
-			"d.png","com.blogspot.mravki.dumi2",
+			"d0.png","com.blogspot.mravki.dumi2",
 			"s.png","com.blogspot.mravki.solitaire.free",
 			"bf.png","com.blogspot.mravki.blockfit",
 			"p.png","com.blogspot.mravki.pic.en"
