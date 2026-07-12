@@ -1,14 +1,18 @@
 {
-		"v":6,
+		"v":7,
 		"bi": "https://raw.githubusercontent.com/mravki/tag/master/",
 		"bu": "https://play.google.com/store/apps/details?id=",
 		"ma":[
-			"tn.png","com.blogspot.mravki.targetnumber",
-			"h.png","com.blogspot.mravki.whoowesme",
-			"d1.png","com.blogspot.mravki.dumi2",
-			"s.png","com.blogspot.mravki.solitaire.free",
-			"b1.png","com.blogspot.mravki.blockfit",
+			"b.png","com.blogspot.mravki.blockfit",
+			"bd.png","com.blogspot.mravki.reminder",
+			"d.png","com.blogspot.mravki.dumi2",
+			"ft.png","com.blogspot.mravki.familytree",
+			"h1.png","com.blogspot.mravki.whoowesme",
+			"ih.png","com.blogspot.mravki.hide_forms",
 			"p.png","com.blogspot.mravki.pic.en"
+			"s.png","com.blogspot.mravki.solitaire.free",
+			"sp.png","com.blogspot.mravki.soundprofilestoggle",
+			"tn.png","com.blogspot.mravki.targetnumber",
 		],
 		"ba":[
 			"tn.png","com.blogspot.mravki.targetnumber",
